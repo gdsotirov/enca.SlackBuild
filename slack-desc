@@ -1,0 +1,12 @@
+enca: ENCA (An Extremely Naive Charset Analyser)
+enca:
+enca: Enca is an Extremely Naive Charset Analyser.  It detects character
+enca: set and encoding of text files and can also convert them to other
+enca: encodings using either a built-in converter or external libraries and
+enca: tools like libiconv, librecode, or cstocs.
+enca: Currently it supports Belarusian, Bulgarian, Croatian, Czech,
+enca: Estonian, Hungarian, Latvian, Lithuanian, Polish, Russian, Slovak,
+enca: Slovene, Ukrainian, Chinese, and some multibyte encodings
+enca: independently on language.
+enca:
+enca: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>
