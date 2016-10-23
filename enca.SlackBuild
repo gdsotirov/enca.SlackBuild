@@ -1,7 +1,7 @@
 #!/bin/sh
 #
 # Slackware build script for Extremely Naive Charset Analyser (ENCA)
-# Copyright (C) 2010-2014 Georgi D. Sotirov <gdsotirov@dir.bg>
+# Copyright (C) 2010-2016 Georgi D. Sotirov <gdsotirov@dir.bg>
 #
 # This program is free software; you can redistribute it and/or
 # modify it under the terms of the GNU General Public License
@@ -20,14 +20,14 @@
 #
 # Visit SlackPack at http://sotirov-bg.net/slackpack/
 #
-# $Id: enca.SlackBuild,v 1.5 2016/10/23 16:07:07 gsotirov Exp $
+# $Id: enca.SlackBuild,v 1.6 2016/10/23 16:21:55 gsotirov Exp $
 #
 
 . ../../slack-package.conf
 
 NAME=enca
-VERSION=1.16
-ARCH=${ARCH:-i486}
+VERSION=1.19
+ARCH=${ARCH:-i586}
 BUILD=${BUILD:-1}
 
 TMP=${TMP:-/tmp}
